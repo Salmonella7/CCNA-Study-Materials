@@ -1,0 +1,4 @@
+- conceptual model and set of communications protocol used in the internet and other networks
+- known as the TCP/IP because those are the two foundational protocols in the suite
+- developed by DARPA
+- similar structure to OSI model but with fewer layers
