@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "c33a6456d8009d64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "159e79e03637d143",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -213,6 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -222,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "222d2c8560b852d9",
+  "active": "c33a6456d8009d64",
   "lastOpenFiles": [
     "Cyber Security Talk (4-22-25).md",
     "TCP IP Suite.md",
