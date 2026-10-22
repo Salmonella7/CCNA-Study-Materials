@@ -27,6 +27,7 @@ Cybersecurity Projects (for Cybersec portfolio)
 - Security Information and Event Management (SIEM)
 - Network Firewall 
 - Simulated Enterprise Security Architecture (SECA)
+- [[InSighter Hub|InSighter]] — AI-assisted insider threat detection (SIEM-style risk scoring, anomaly detection, RBAC)
 
 ATS - Application Tracking System 
 
