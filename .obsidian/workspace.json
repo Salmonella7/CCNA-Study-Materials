@@ -259,6 +259,7 @@
   },
   "active": "159e79e03637d143",
   "lastOpenFiles": [
+    "InSighter/notes/auth.md",
     "InSighter/InSighter Hub.md",
     "copilot/skills/openartifacts-publish/SKILL.md",
     "InSighter/Ops and Config.md",
@@ -284,7 +285,6 @@
     "InSighter/notes/test_desktop_async.md",
     "InSighter/notes/test_compliance_rbac.md",
     "InSighter/notes/test_ci_scripts.md",
-    "InSighter/notes/test_cert_integration.md",
     "InSighter/notes/templates",
     "InSighter/notes/scripts",
     "InSighter/notes/llm_benchmark_review/tests",

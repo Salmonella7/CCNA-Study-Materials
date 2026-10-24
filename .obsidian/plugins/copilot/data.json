@@ -317,7 +317,7 @@
   "inlineEditCommands": [],
   "projectList": [],
   "lastDismissedVersion": null,
-  "lastShownStartupVersion": null,
+  "lastShownStartupVersion": "4.0.16",
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
@@ -677,15 +677,6 @@
       },
       "configuredModelId": "36db0edc-ae1b-429a-a85d-befae33a77c2",
       "configuredAt": 1792653902367
-    },
-    {
-      "providerId": "5c3fcdcc-bfee-4f53-b420-5348eba27911",
-      "info": {
-        "id": "opencode/minimax-m3.1-flash-free",
-        "displayName": "opencode/MiniMax M3.1 Flash Free"
-      },
-      "configuredModelId": "60a18fae-d773-4fd5-a23f-4cc338652837",
-      "configuredAt": 1792653902368
     },
     {
       "providerId": "5c3fcdcc-bfee-4f53-b420-5348eba27911",
