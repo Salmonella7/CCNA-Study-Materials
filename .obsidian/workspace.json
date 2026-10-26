@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -269,8 +269,10 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "1d2d1dc3d99dde19",
+  "active": "159e79e03637d143",
   "lastOpenFiles": [
+    "InSighter/notes/test_auth_security.md",
+    "InSighter/Security, Privacy and Auth.md",
     "InSighter/notes/auth.md",
     "InSighter/InSighter Hub.md",
     "copilot/skills/openartifacts-publish/SKILL.md",
@@ -281,7 +283,6 @@
     "InSighter/Desktop App PyQt6.md",
     "InSighter/CERT Dataset and Baselines.md",
     "InSighter/LLM Advisor.md",
-    "InSighter/Security, Privacy and Auth.md",
     "InSighter/Core and Backend.md",
     "InSighter/notes/test_uav_config_tab.md",
     "InSighter/notes/test_support.md",
@@ -296,7 +297,6 @@
     "InSighter/notes/test_desktop_safety.md",
     "InSighter/notes/test_desktop_async.md",
     "InSighter/notes/test_compliance_rbac.md",
-    "InSighter/notes/test_ci_scripts.md",
     "InSighter/notes/templates",
     "InSighter/notes/scripts",
     "InSighter/notes/llm_benchmark_review/tests",
