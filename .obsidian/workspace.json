@@ -82,9 +82,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1d2d1dc3d99dde19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,7 +269,7 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "159e79e03637d143",
+  "active": "1d2d1dc3d99dde19",
   "lastOpenFiles": [
     "InSighter/notes/auth.md",
     "InSighter/InSighter Hub.md",
