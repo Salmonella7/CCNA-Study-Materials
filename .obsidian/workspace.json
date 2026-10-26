@@ -271,6 +271,9 @@
   },
   "active": "159e79e03637d143",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "InSighter/LLM Advisor.md",
     "InSighter/notes/test_auth_security.md",
     "InSighter/Security, Privacy and Auth.md",
     "InSighter/notes/auth.md",
@@ -282,7 +285,6 @@
     "InSighter/Tests.md",
     "InSighter/Desktop App PyQt6.md",
     "InSighter/CERT Dataset and Baselines.md",
-    "InSighter/LLM Advisor.md",
     "InSighter/Core and Backend.md",
     "InSighter/notes/test_uav_config_tab.md",
     "InSighter/notes/test_support.md",
@@ -296,7 +298,6 @@
     "InSighter/notes/test_hardening_logging.md",
     "InSighter/notes/test_desktop_safety.md",
     "InSighter/notes/test_desktop_async.md",
-    "InSighter/notes/test_compliance_rbac.md",
     "InSighter/notes/templates",
     "InSighter/notes/scripts",
     "InSighter/notes/llm_benchmark_review/tests",
@@ -305,7 +306,6 @@
     "InSighter/notes/desktop_app",
     "InSighter/source/test_uav_config_tab.py",
     "InSighter/source/test_support.py",
-    "InSighter/source/test_sector_ui.py",
-    "InSighter/source/test_sector_removal.py"
+    "InSighter/source/test_sector_ui.py"
   ]
 }
